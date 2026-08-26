@@ -1,3 +1,10 @@
+> [!NOTE]
+> **This repository has moved.** Its content, history, and issues now live in
+> [skills-orchestration](https://github.com/mtschoen/skills-orchestration) under the `agent-remote/` directory, as part
+> of consolidating 26 single-skill repositories into three themed families.
+> See [skills-dev#25](https://github.com/mtschoen/skills-dev) for the rationale.
+> This repository is archived and read-only.
+
 # agent-remote
 
 A skill (and supporting wrapper script) that lets an agent orchestrator
